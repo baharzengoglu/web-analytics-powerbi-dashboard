@@ -26,3 +26,6 @@ Star schema was used for performance and clarity.
 - DAX
 - Data Modeling (Star Schema)
 - Web Analytics Concepts
+
+## Dashboard Preview 
+![Dashboard](dashboard.png)
