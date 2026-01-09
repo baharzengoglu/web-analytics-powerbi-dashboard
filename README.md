@@ -1,3 +1,10 @@
+## Project Overview
+
+End-to-end web analytics project built with Power BI and SQL.
+The project covers data modeling, metric definitions (bounce, exit, funnel),
+and interactive dashboards for business insights.
+
+
 # Web Analytics Dashboard – Power BI
 
 ## Project Overview
